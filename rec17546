@@ -1,0 +1,177 @@
+cs1302-minesweeper-alpha:
+total 8
+drwxr-xr-x. 3 myid   28 Sep  7 23:54 bin
+drwxr-xr-x. 5 myid 4096 Sep 15 23:53 doc
+-rw-r--r--. 1 myid    0 Sep 15 23:54 rec17546
+drwxr-xr-x. 2 myid   80 Sep 13 15:57 resources
+drwxr-xr-x. 3 myid   28 Sep  7 23:40 src
+drwxr-xr-x. 2 myid 4096 Sep 15 20:35 tests
+
+cs1302-minesweeper-alpha/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Sep  7 23:54 cs1302
+
+cs1302-minesweeper-alpha/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 78 Sep  9 21:34 game
+
+cs1302-minesweeper-alpha/bin/cs1302/game:
+total 16
+-rw-r--r--. 1 myid 1547 Sep 15 23:50 MinesweeperDriver.class
+-rw-r--r--. 1 myid 8553 Sep 15 23:44 MinesweeperGame.class
+
+cs1302-minesweeper-alpha/doc:
+total 156
+-rw-r--r--. 1 myid  1245 Sep 15 23:53 allclasses.html
+-rw-r--r--. 1 myid  5353 Sep 15 23:53 allclasses-index.html
+-rw-r--r--. 1 myid  4794 Sep 15 23:53 allpackages-index.html
+-rw-r--r--. 1 myid  4383 Sep 15 23:53 constant-values.html
+drwxr-xr-x. 3 myid    18 Sep 15 23:53 cs1302
+-rw-r--r--. 1 myid  4298 Sep 15 23:53 deprecated-list.html
+-rw-r--r--. 1 myid    12 Sep 15 23:53 element-list
+-rw-r--r--. 1 myid  9264 Sep 15 23:53 help-doc.html
+-rw-r--r--. 1 myid 13137 Sep 15 23:53 index-all.html
+-rw-r--r--. 1 myid   797 Sep 15 23:53 index.html
+drwxr-xr-x. 6 myid  4096 Sep 15 23:53 jquery
+-rw-r--r--. 1 myid  1393 Sep 15 23:53 member-search-index.js
+-rw-r--r--. 1 myid   436 Sep 15 23:53 member-search-index.zip
+-rw-r--r--. 1 myid  4813 Sep 15 23:53 overview-tree.html
+-rw-r--r--. 1 myid    94 Sep 15 23:53 package-search-index.js
+-rw-r--r--. 1 myid   227 Sep 15 23:53 package-search-index.zip
+drwxr-xr-x. 2 myid    48 Sep 15 23:53 resources
+-rw-r--r--. 1 myid  5043 Sep 15 23:53 script.js
+-rw-r--r--. 1 myid 12302 Sep 15 23:53 search.js
+-rw-r--r--. 1 myid 22271 Sep 15 23:53 stylesheet.css
+-rw-r--r--. 1 myid   155 Sep 15 23:53 type-search-index.js
+-rw-r--r--. 1 myid   249 Sep 15 23:53 type-search-index.zip
+
+cs1302-minesweeper-alpha/doc/cs1302:
+total 0
+drwxr-xr-x. 2 myid 117 Sep 15 23:53 game
+
+cs1302-minesweeper-alpha/doc/cs1302/game:
+total 56
+-rw-r--r--. 1 myid  9959 Sep 15 23:53 MinesweeperDriver.html
+-rw-r--r--. 1 myid 27272 Sep 15 23:53 MinesweeperGame.html
+-rw-r--r--. 1 myid  5350 Sep 15 23:53 package-summary.html
+-rw-r--r--. 1 myid  4831 Sep 15 23:53 package-tree.html
+
+cs1302-minesweeper-alpha/doc/jquery:
+total 440
+drwxr-xr-x. 3 myid     28 Sep 15 23:53 external
+drwxr-xr-x. 2 myid   4096 Sep 15 23:53 images
+-rw-r--r--. 1 myid 287630 Sep 15 23:53 jquery-3.5.1.js
+-rw-r--r--. 1 myid  20275 Sep 15 23:53 jquery-ui.css
+-rw-r--r--. 1 myid  71563 Sep 15 23:53 jquery-ui.js
+-rw-r--r--. 1 myid  17416 Sep 15 23:53 jquery-ui.min.css
+-rw-r--r--. 1 myid  32162 Sep 15 23:53 jquery-ui.min.js
+-rw-r--r--. 1 myid   2555 Sep 15 23:53 jquery-ui.structure.css
+-rw-r--r--. 1 myid   1787 Sep 15 23:53 jquery-ui.structure.min.css
+drwxr-xr-x. 3 myid     26 Sep 15 23:53 jszip
+drwxr-xr-x. 3 myid     26 Sep 15 23:53 jszip-utils
+
+cs1302-minesweeper-alpha/doc/jquery/external:
+total 0
+drwxr-xr-x. 2 myid 23 Sep 15 23:53 jquery
+
+cs1302-minesweeper-alpha/doc/jquery/external/jquery:
+total 276
+-rw-r--r--. 1 myid 280363 Sep 15 23:53 jquery.js
+
+cs1302-minesweeper-alpha/doc/jquery/images:
+total 64
+-rw-r--r--. 1 myid  335 Sep 15 23:53 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 Sep 15 23:53 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Sep 15 23:53 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Sep 15 23:53 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 Sep 15 23:53 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 Sep 15 23:53 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 Sep 15 23:53 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 Sep 15 23:53 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 Sep 15 23:53 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 Sep 15 23:53 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 Sep 15 23:53 ui-icons_cd0a0a_256x240.png
+
+cs1302-minesweeper-alpha/doc/jquery/jszip:
+total 0
+drwxr-xr-x. 2 myid 54 Sep 15 23:53 dist
+
+cs1302-minesweeper-alpha/doc/jquery/jszip/dist:
+total 456
+-rw-r--r--. 1 myid 366227 Sep 15 23:53 jszip.js
+-rw-r--r--. 1 myid  95827 Sep 15 23:53 jszip.min.js
+
+cs1302-minesweeper-alpha/doc/jquery/jszip-utils:
+total 0
+drwxr-xr-x. 2 myid 108 Sep 15 23:53 dist
+
+cs1302-minesweeper-alpha/doc/jquery/jszip-utils/dist:
+total 20
+-rw-r--r--. 1 myid 2444 Sep 15 23:53 jszip-utils-ie.js
+-rw-r--r--. 1 myid 1610 Sep 15 23:53 jszip-utils-ie.min.js
+-rw-r--r--. 1 myid 4483 Sep 15 23:53 jszip-utils.js
+-rw-r--r--. 1 myid 1777 Sep 15 23:53 jszip-utils.min.js
+
+cs1302-minesweeper-alpha/doc/resources:
+total 8
+-rw-r--r--. 1 myid 499 Sep 15 23:53 glass.png
+-rw-r--r--. 1 myid 394 Sep 15 23:53 x.png
+
+cs1302-minesweeper-alpha/resources:
+total 12
+-rw-r--r--. 1 myid  235 Sep 13 15:57 gameover.txt
+-rw-r--r--. 1 myid 1777 Sep 13 14:20 gamewon.txt
+-rw-r--r--. 1 myid  303 Sep  9 23:39 welcome.txt
+
+cs1302-minesweeper-alpha/src:
+total 0
+drwxr-xr-x. 3 myid 26 Sep  7 23:11 cs1302
+
+cs1302-minesweeper-alpha/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 76 Sep 15 23:50 game
+
+cs1302-minesweeper-alpha/src/cs1302/game:
+total 28
+-rw-r--r--. 1 myid  1420 Sep 15 23:50 MinesweeperDriver.java
+-rw-r--r--. 1 myid 22162 Sep 15 23:44 MinesweeperGame.java
+
+cs1302-minesweeper-alpha/tests:
+total 148
+-rw-r--r--. 1 myid  867 Sep 15 10:03 tc01.combined.txt
+-rw-r--r--. 1 myid    0 Sep 15 10:03 tc01.err.txt
+-rw-r--r--. 1 myid    2 Sep 15 10:03 tc01.in.txt
+-rw-r--r--. 1 myid  867 Sep 15 10:03 tc01.out.txt
+-rw-r--r--. 1 myid   24 Sep 15 10:03 tc01.seed.txt
+-rw-r--r--. 1 myid 7396 Sep 15 10:03 tc02.combined.txt
+-rw-r--r--. 1 myid  107 Sep 15 10:03 tc02.err.txt
+-rw-r--r--. 1 myid  187 Sep 15 10:03 tc02.in.txt
+-rw-r--r--. 1 myid 7289 Sep 15 10:03 tc02.out.txt
+-rw-r--r--. 1 myid   30 Sep 15 10:03 tc02.seed.txt
+-rw-r--r--. 1 myid   91 Sep 15 10:03 tc03.combined.txt
+-rw-r--r--. 1 myid   91 Sep 15 10:03 tc03.err.txt
+-rw-r--r--. 1 myid    1 Sep 15 10:03 tc03.in.txt
+-rw-r--r--. 1 myid    0 Sep 15 10:03 tc03.out.txt
+-rw-r--r--. 1 myid   22 Sep 15 10:03 tc03.seed.txt
+-rw-r--r--. 1 myid 9121 Sep 15 10:03 tc04.combined.txt
+-rw-r--r--. 1 myid  145 Sep 15 10:03 tc04.err.txt
+-rw-r--r--. 1 myid  236 Sep 15 10:03 tc04.in.txt
+-rw-r--r--. 1 myid 8976 Sep 15 10:03 tc04.out.txt
+-rw-r--r--. 1 myid   30 Sep 15 10:03 tc04.seed.txt
+-rw-r--r--. 1 myid  924 Sep 15 10:03 tc05.combined.txt
+-rw-r--r--. 1 myid    0 Sep 15 10:03 tc05.err.txt
+-rw-r--r--. 1 myid   12 Sep 15 10:03 tc05.in.txt
+-rw-r--r--. 1 myid  924 Sep 15 10:03 tc05.out.txt
+-rw-r--r--. 1 myid   30 Sep 15 10:03 tc05.seed.txt
+-rw-r--r--. 1 myid   91 Sep 15 10:03 tc06.combined.txt
+-rw-r--r--. 1 myid   91 Sep 15 10:03 tc06.err.txt
+-rw-r--r--. 1 myid   44 Sep 15 10:03 tc06.in.txt
+-rw-r--r--. 1 myid    0 Sep 15 10:03 tc06.out.txt
+-rw-r--r--. 1 myid   24 Sep 15 10:03 tc06.seed.txt
+-rw-r--r--. 1 myid   91 Sep 15 10:03 tc07.combined.txt
+-rw-r--r--. 1 myid   91 Sep 15 10:03 tc07.err.txt
+-rw-r--r--. 1 myid   44 Sep 15 10:03 tc07.in.txt
+-rw-r--r--. 1 myid    0 Sep 15 10:03 tc07.out.txt
+-rw-r--r--. 1 myid   24 Sep 15 10:03 tc07.seed.txt
+-rw-r--r--. 1 myid   34 Sep 15 20:35 tckathrynne.txt
+/home/myid/jbr35352/projects/cs1302-minesweeper-alpha:/home/myid/csci-1302
